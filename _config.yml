@@ -1,2 +1,4 @@
 name: Peter Kitlas
 markdown: kramdown
+
+theme: jekyll-theme-slate
